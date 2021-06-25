@@ -1,4 +1,4 @@
-Sample web app project
+Sample web app 
 CI/CD project using simple Java web app Apllication
 
 In AWS Console Launch two  EC-2 Instances
